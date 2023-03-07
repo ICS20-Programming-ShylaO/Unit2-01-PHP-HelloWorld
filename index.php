@@ -8,5 +8,6 @@
   <body>
     <h1><?php echo 'Hello, World! in PHP'; ?></h1>
 <?php echo '<p>This is my first web page using PHP.</p>'; ?>
+<?php echo "Today is " . date("l"); ?>
 </body>
 </html>
